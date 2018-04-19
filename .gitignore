@@ -1,0 +1,11 @@
+build/
+proto/rpc.pb.h
+proto/rpc.pb.cc
+proto/kv.pb.h
+proto/etcdserver.pb.cc
+proto/auth.pb.h
+proto/rpc.grpc.pb.h
+proto/rpc.grpc.pb.cc
+proto/kv.pb.cc
+proto/etcdserver.pb.h
+proto/auth.pb.cc
